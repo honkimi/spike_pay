@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = SpikePay::VERSION
   spec.authors       = ["Kiminari Homma"]
   spec.email         = ["u533u778@gmail.com"]
-  spec.summary       = %q{SPIKE API client with Ruby}
+  spec.summary       = %q{SPIKE API client for Ruby}
   spec.description   = %q{SPIKE pay enable you to delvelop SPIKE API access easy.}
   spec.homepage      = ""
   spec.license       = "MIT"
