@@ -2,6 +2,8 @@
 
 [SPIKE](https://spike.cc/) Payment service API client for Ruby.
 
+**This is not recognited source by Metaps,Inc.**
+
 ## Installation
 
 Add this line to your application's Gemfile:
